@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/my-mentor-neufische.iml" filepath="$PROJECT_DIR$/.idea/my-mentor-neufische.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-own-mentor-app/mymentor-backend/myownmentor.iml" filepath="$PROJECT_DIR$/my-own-mentor-app/mymentor-backend/myownmentor.iml" />
+    </modules>
+  </component>
+</project>
