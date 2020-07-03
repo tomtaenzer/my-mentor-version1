@@ -7,6 +7,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/mymentor-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/my-own-mentor-app/mymentor-backend/pom.xml" />
       </list>
     </option>
   </component>
